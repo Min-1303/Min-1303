@@ -17,7 +17,7 @@
 
 ### 📫 How to reach me:  
 - Email: [minkhant.coding@gmail.com]  
-- LinkedIn: [LinkedIn Profile]( https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/min-khant-aung-6ab207248/ )  
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/min-khant-aung-6ab207248/)  
 
 ### ⚡ Fun fact:  
 - I’m always exploring new AI applications, from stock predictions to anime-inspired tools!  
